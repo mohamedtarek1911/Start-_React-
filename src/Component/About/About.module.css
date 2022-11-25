@@ -1,0 +1,47 @@
+.bg {
+  background-color: #1abc9c !important;
+  /* height: 100vh; */
+  /* padding-top: 6.8rem; */
+  /* margin-top: 6.8rem; */
+}
+
+.w1 {
+  width: 3%;
+}
+
+.heading {
+  font-size: 4rem;
+  font-weight: 700;
+  color: #fff !important;
+}
+
+.img {
+  position: relative;
+}
+.img i {
+  font-size: 2rem;
+  color: #fff;
+}
+
+.img::before {
+  content: "";
+  position: absolute;
+  left: 30%;
+  top: 50%;
+  height: 5px;
+  max-width: 17%;
+  width: 17%;
+  color: aliceblue;
+  background-color: #fff;
+}
+.img::after {
+  content: "";
+  position: absolute;
+  right: 30%;
+  top: 50%;
+  height: 5px;
+  max-width: 17%;
+  width: 17%;
+  color: aliceblue;
+  background-color: #fff;
+}

@@ -1,0 +1,63 @@
+.bg {
+  background-color: #1abc9c !important;
+  height: 100vh;
+  /* padding-top: 6.8rem; */
+  margin-top: 6.8rem;
+}
+
+.w1 {
+  width: 3%;
+}
+
+.home_content {
+  text-align: center;
+  margin: 2rem 0;
+}
+
+.img::before {
+  content: "";
+  position: absolute;
+  left: 30%;
+  top: 50%;
+  height: 5px;
+  max-width: 17%;
+  width: 17%;
+  color: aliceblue;
+  background-color: #fff;
+}
+.img::after {
+  content: "";
+  position: absolute;
+  right: 30%;
+  top: 50%;
+  height: 5px;
+  max-width: 17%;
+  width: 17%;
+  color: aliceblue;
+  background-color: #fff;
+}
+
+.img i {
+  font-size: 2rem;
+  color: #fff;
+}
+
+.img {
+  position: relative;
+  margin: 1.5rem 0;
+}
+
+.content h1 {
+  font-size: 4rem;
+  font-weight: 700;
+  margin: 1.5rem 0;
+}
+
+.para p {
+  font-size: 2rem;
+}
+
+.p {
+  /* font-size: 2.5rem; */
+  margin: 1rem 0;
+}
