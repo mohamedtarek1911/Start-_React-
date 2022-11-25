@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Start-_React-/static/css/main.204cdadf.css",
+    "main.js": "/Start-_React-/static/js/main.aa4bacb0.js",
+    "static/js/787.9051673e.chunk.js": "/Start-_React-/static/js/787.9051673e.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/Start-_React-/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fa-solid-900.ttf": "/Start-_React-/static/media/fa-solid-900.b48ad290d0335879a92b.ttf",
+    "static/media/fa-brands-400.ttf": "/Start-_React-/static/media/fa-brands-400.f9ee61fab3c11e2f3ed3.ttf",
+    "static/media/fontawesome-webfont.eot": "/Start-_React-/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Start-_React-/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fa-solid-900.woff2": "/Start-_React-/static/media/fa-solid-900.66104b766c3d0462b3c5.woff2",
+    "static/media/fa-brands-400.woff2": "/Start-_React-/static/media/fa-brands-400.e1a247a5ef41e1975742.woff2",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/Start-_React-/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Start-_React-/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/fa-regular-400.ttf": "/Start-_React-/static/media/fa-regular-400.abf801b7acb6705a15ad.ttf",
+    "static/media/cabin.png": "/Start-_React-/static/media/cabin.4417330275f78faa31c3.png",
+    "static/media/circus.png": "/Start-_React-/static/media/circus.494a4a914b5471b41f3e.png",
+    "static/media/game.png": "/Start-_React-/static/media/game.a940b57aa7bab2eacc52.png",
+    "static/media/fa-regular-400.woff2": "/Start-_React-/static/media/fa-regular-400.639d2000c1ece92eaec8.woff2",
+    "static/media/submarine.png": "/Start-_React-/static/media/submarine.48c9704ca7f8ce901038.png",
+    "static/media/safe.png": "/Start-_React-/static/media/safe.01792c0bdc342bf4bf9c.png",
+    "static/media/cake.png": "/Start-_React-/static/media/cake.6554473016d32b343f02.png",
+    "static/media/avataaars.svg": "/Start-_React-/static/media/avataaars.aa9aff02ddd0ef36a1724ecef4133df9.svg",
+    "static/media/fa-v4compatibility.ttf": "/Start-_React-/static/media/fa-v4compatibility.f601162ae669f88823a3.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Start-_React-/static/media/fa-v4compatibility.745989aab0d69cab7e70.woff2",
+    "index.html": "/Start-_React-/index.html",
+    "main.204cdadf.css.map": "/Start-_React-/static/css/main.204cdadf.css.map",
+    "main.aa4bacb0.js.map": "/Start-_React-/static/js/main.aa4bacb0.js.map",
+    "787.9051673e.chunk.js.map": "/Start-_React-/static/js/787.9051673e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.204cdadf.css",
+    "static/js/main.aa4bacb0.js"
+  ]
+}
